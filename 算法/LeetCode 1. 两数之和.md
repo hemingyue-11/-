@@ -1,6 +1,6 @@
 # LeetCode 1. 两数之和
 
-![](images/leetcode01.PNG)
+![abc](images/leetcode01.png)
 
 ## 题解
 
