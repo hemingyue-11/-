@@ -3,4 +3,4 @@
 
 ## 左右指针
 
-<a href="算法/LeetCode 15. 三数之和">LeetCode 15. 三数之和<a>
+<a href="算法/LeetCode 15. 三数之和.md">LeetCode 15. 三数之和<a>
