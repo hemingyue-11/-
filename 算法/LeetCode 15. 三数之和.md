@@ -1,6 +1,6 @@
 # LeetCode 15. 三数之和
 
-![123](images\leetcode15.png)
+![题目表述](images\leetcode15.png)
 
 ```java
 class Solution {
