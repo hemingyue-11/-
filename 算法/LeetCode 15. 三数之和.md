@@ -1,6 +1,10 @@
 # LeetCode 15. 三数之和
 
+<<<<<<< HEAD
 ![abdc](images/leetcode15.png)
+=======
+<img src="images\leetcode15.png" style="zoom:50%;" />
+>>>>>>> c8d579d (update)
 
 ```java
 class Solution {
